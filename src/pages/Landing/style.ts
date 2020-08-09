@@ -53,11 +53,11 @@ const styles = StyleSheet.create({
   totalConnections: {
     fontFamily: "Poppins_400Regular",
     color: "#d4c2ff",
-    fontSize: 16,
+    fontSize: 14,
     lineHeight: 20,
     maxWidth: "100%",
     marginTop: 80,
-    alignSelf: "center",
+    alignSelf: "center"
   },
 });
 
